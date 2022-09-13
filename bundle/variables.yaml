@@ -1,0 +1,4 @@
+variables:
+- team: my-cloadbees-workshop
+- admin-user: peterkolp-admin
+- manager-user: peterkolp
